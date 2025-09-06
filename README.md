@@ -17,6 +17,7 @@ using Tinker CAD.
 
 # Circuit Diagram:
 
+![WhatsApp Image 2025-09-06 at 09 33 16_568e48a8](https://github.com/user-attachments/assets/65ffe697-00c7-49c9-a9b1-87617ad0c227)
 
 
 # Procedure
